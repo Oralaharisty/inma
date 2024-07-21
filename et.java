@@ -1,1 +1,1 @@
-boolean sellNow = true;
+ArrayList<Integer> z = new ArrayList<>();
